@@ -1,0 +1,12 @@
+name: cloud-mariadb
+title: Cloud MariaDB
+
+services:
+- name: cloud-mariadb
+  title: Cloud MariaDB
+  service: cloud-mariadb
+  options: 
+  - version: 10.5
+  - version: 10.4
+  - version: 10.3
+  - version: 10.2

@@ -1,4 +1,5 @@
 name: cloud-mariadb
+icon: mariadb
 title: Cloud MariaDB
 
 services:

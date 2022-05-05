@@ -6,8 +6,3 @@ services:
 - name: mariadb
   title: Cloud MariaDB
   service: mariadb-cloud
-  options: 
-  - version: '10.5'
-  - version: '10.4'
-  - version: '10.3'
-  - version: '10.2'

@@ -1,11 +1,11 @@
-name: cloud-mariadb
+name: mariadb-cloud
 icon: mariadb
 title: Cloud MariaDB
 
 services:
-- name: cloud-mariadb
+- name: mariadb
   title: Cloud MariaDB
-  service: cloud-mariadb
+  service: mariadb-cloud
   options: 
   - version: '10.5'
   - version: '10.4'

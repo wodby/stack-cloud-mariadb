@@ -1,8 +1,8 @@
-name: mariadb-cloud
+name: cloud-mariadb
 icon: mariadb
 title: Cloud MariaDB
 
 services:
 - name: mariadb
   title: Cloud MariaDB
-  service: mariadb-cloud
+  service: cloud-mariadb

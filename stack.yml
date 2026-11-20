@@ -2,6 +2,7 @@ name: cloud-mariadb
 icon: mariadb
 docs: https://wodby.com/docs/2.0/stacks/catalog/cloud-mariadb/
 title: Cloud MariaDB
+category: databases
 
 services:
 - name: mariadb
